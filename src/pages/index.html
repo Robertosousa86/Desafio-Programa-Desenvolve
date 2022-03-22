@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="../styles/mediaQueries/hero-section.css">
   <link rel="stylesheet" href="../styles/mediaQueries/about-section.css">
   <link rel="stylesheet" href="../styles/mediaQueries/service-section.css">
+  <link rel="stylesheet" href="../styles/mediaQueries/form-section.css">
 </head>
 
 <body>
@@ -29,7 +30,7 @@
           <a href="#about" class="navbar__links" id="about-page">Quem Somos</a>
         </li>
         <li class="navbar__item">
-          <a href="#services" class="navbar__links" id="services-page">Fale conosco</a>
+          <a href="#services" class="navbar__links" id="services-page">Serviços</a>
         </li>
         <li class="navbar__btn">
           <a href="#sign-up" class="button" id="signup">Cadastrar</a>
@@ -86,6 +87,26 @@
         <div class="services__btn"><button>Saiba mais!</button></div>
       </summary>
     </article>
+  </section>
+  <!-- Formulário -->
+  <section class="main" id="sign-up">
+    <div class="main__container">
+      <div class="main__img--container">
+        <div class="main__img--card2" id="card-2">
+          <form class="main__form" name="meu_form">
+            <input type="text" id="name" placeholder="Seu nome aqui! =)" required="required" name="name" />
+            <input type="email" id="email" placeholder="Seu email aqui =)" name="email" />
+            <textarea placeholder="Duvidas? Comparti-lhe conosco!" rows="15"></textarea>
+          </form>
+        </div>
+      </div>
+      <aside class="form__text">
+        <h1>Fale Conosco</h1>
+        <h2>Cadastro gratuito</h2>
+        <p>Encontre sua republica aqui!</p>
+        <button class="main__btn"><a href="#">Enviar</a></button>
+      </aside>
+    </div>
   </section>
 </body>
 
