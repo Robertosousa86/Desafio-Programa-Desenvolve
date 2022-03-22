@@ -68,24 +68,30 @@ O desafio consiste em construir uma versão inicial simplificada de uma landing 
 
 ## Ferramentas e Referencias utilizadas
 
-<!-- criar links -->
+#### Imagens
 
-<!-- - https://www.pensionatoflavia.com.br/republica-em-santo-andre/
+- [Pensionista Flávia] (https://www.pensionatoflavia.com.br/republica-em-santo-andre/)
 
-- https://html-color-codes.info/colors-from-image/
+- [Portais imobiliários] (https://images.portaisimobiliarios.com.br/portais/83074/1746997/destaque_1746997_24517683.jpg)
 
-- https://images.portaisimobiliarios.com.br/portais/83074/1746997/destaque_1746997_24517683.jpg
-- https://www.awebco.com/blog/hero-section/
+#### Ferramentas e referencias
 
-- https://uigradients.com/
+- [Info sobre cores] (https://html-color-codes.info/colors-from-image/)
 
-- https://dcx.lett.digital/hero-images/#:~:text=Hero%20image%20%C3%A9%20um%20termo,banners%20ao%20lado%20da%20imagem.
+- [Sobre hero section] (https://www.awebco.com/blog/hero-section/)
 
-- https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-size
+- [Cores gradientes] (https://uigradients.com/)
 
-- https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics
+- [Sobre hero image] (https://dcx.lett.digital/hero-images/#:~:text=Hero%20image%20%C3%A9%20um%20termo,banners%20ao%20lado%20da%20imagem)
 
-- https://www.maujor.com/tutorial/csslinks.php
+-[Sobre Background-size] (https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-size)
 
-- https://regex101.com/
- -->
+- [Sobre tags semânticas] (https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics)
+
+- [Sobre estilos de links] (https://www.maujor.com/tutorial/csslinks.php)
+
+- [Sobre como criar expressões regulares] (https://www.oreilly.com/library/view/regular-expressions-cookbook/9781449327453/ch04s09.html)
+
+- [Sobre expressões regulares para email] (https://www.oreilly.com/library/view/regular-expressions-cookbook/9781449327453/ch04s01.html)
+
+- [Ferramenta que testa expressões regulares] (https://regex101.com/)
