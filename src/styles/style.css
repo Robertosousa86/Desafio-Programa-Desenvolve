@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
+  text-decoration: none;
 }
 
 .sticky__header {
@@ -238,13 +239,8 @@ main {
 }
 
 .services h1 {
-  background-color: #ff8177;
-  background-image: linear-gradient(to right, #ff0844 0%, #f7673c 100%);
   background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
+  color: #1fd9f1;
   margin-bottom: 5rem;
   font-size: 2.5rem;
 }
@@ -263,7 +259,8 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  color: #df111b;
+  color: #f80b0b;
+  font-size: 2em;
   background-image: url('../images/diversos-amigos-estudantes-atiram_53876-47012.webp');
   background-size: 100% 100%;
   transition: 0.3s ease-in;
@@ -289,12 +286,18 @@ main {
   text-align: center;
   margin-top: 24px;
   font-size: 20px;
+  font-size: 1em;
+  font-weight: 700;
 }
 
 .services__btn {
   display: flex;
   justify-content: center;
   margin-top: 16px;
+}
+
+.services__btn a {
+  color: #f80b0b;
 }
 
 .services__card button {
@@ -311,11 +314,14 @@ main {
 
 .services__card button:hover {
   cursor: pointer;
-  opacity: 1;
-  color: #ffffff;
+  opacity: 0.6;
   background: #1fd9f1;
   transform: scale(1.075);
   transition: 0.3s ease-in;
+}
+
+.services__card:hover a {
+  color: #132235;
 }
 
 .services__card:hover {
@@ -348,6 +354,7 @@ main {
 .form__text {
   color: #132235;
   width: 100%;
+  margin-bottom: 1.2em;
 }
 
 .form__text h1 {
@@ -372,6 +379,7 @@ main {
 #sign-up {
   background-image: url('../images/Republicaestudiantil_Getty-Images.webp');
   background-size: cover;
+  padding-bottom: 2em;
 }
 
 .main__form {
@@ -398,4 +406,56 @@ textarea {
   resize: vertical;
   max-height: 300px;
   min-height: 120px;
+}
+
+.footer__container {
+  background-color: #132235;
+  padding: 5rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#footer__logo {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+.footer__link--wrapper {
+  display: flex;
+}
+
+.social__icon--link {
+  color: #fff;
+  font-size: 1.4em;
+}
+
+.social__media {
+  max-width: 1000px;
+  width: 100%;
+}
+
+.social__media--wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto 0 auto;
+}
+
+.social__icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 240px;
+}
+
+.website__rights {
+  color: #fff;
 }
