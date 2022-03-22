@@ -4,6 +4,7 @@
   padding: 0;
   scroll-behavior: smooth;
   text-decoration: none;
+  font-family: 'Poppins', sans-serif;
 }
 
 .sticky__header {
@@ -260,7 +261,7 @@ main {
   flex-direction: column;
   justify-content: center;
   color: #f80b0b;
-  font-size: 2em;
+  font-size: 1.6em;
   background-image: url('../images/diversos-amigos-estudantes-atiram_53876-47012.webp');
   background-size: 100% 100%;
   transition: 0.3s ease-in;
