@@ -26,21 +26,21 @@ O desafio consiste em construir uma versão inicial simplificada de uma landing 
 
 #### A página deve:
 
-- [ ] Seguir a semântica do HTML 5, ou seja: sempre que fizer sentido, usar as tags semânticas ( header, footer, section ) no lugar de div's.
+- [x] Seguir a semântica do HTML 5, ou seja: sempre que fizer sentido, usar as tags semânticas ( header, footer, section ) no lugar de div's.
 
-- [ ] Possuir ícones para as redes sociais da empresa: Twitter, Facebook e Instagram (como a marca não existe, os links podem apontar para a página inicial de cada plataforma). **Estas páginas devem ser abertas em uma nova aba.**
+- [x] Possuir ícones para as redes sociais da empresa: Twitter, Facebook e Instagram (como a marca não existe, os links podem apontar para a página inicial de cada plataforma). **Estas páginas devem ser abertas em uma nova aba.**
 
-- [ ] Seguir uma paleta de cores baseada na logomarca provida pelo cliente.
+- [x] Seguir uma paleta de cores baseada na logomarca provida pelo cliente.
 
-- [ ] Conter cabeçalho, rodapé, uma seção Quem Somos e uma seção Fale conosco .
+- [x] Conter cabeçalho, rodapé, uma seção Quem Somos e uma seção Fale conosco .
 
 ##### 3.1 - Seção "Fale Conosco"
 
 **Essa seção deve conter um formulário para contato, incluindo:**
 
-- [ ] Um campo de email
-- [ ] Um campo de texto para a mensagem
-- [ ] Um botão de envio
+- [x] Um campo de email
+- [x] Um campo de texto para a mensagem
+- [x] Um botão de envio
 
 **Ao clicar no botão de envio, a página deve exibir uma das seguintes mensagens:**
 
@@ -65,3 +65,25 @@ O desafio consiste em construir uma versão inicial simplificada de uma landing 
 
 - Quinto andar - exemplo de uma landing page real
 - F4Life - exemplo de implementação do desafio. Básico, porém com todos os requisitos funcionais.
+
+## Ferramentas e Referencias utilizadas
+
+<!-- criar links -->
+
+<!-- - https://www.pensionatoflavia.com.br/republica-em-santo-andre/
+
+- https://html-color-codes.info/colors-from-image/
+
+- https://images.portaisimobiliarios.com.br/portais/83074/1746997/destaque_1746997_24517683.jpg
+- https://www.awebco.com/blog/hero-section/
+
+- https://uigradients.com/
+
+- https://dcx.lett.digital/hero-images/#:~:text=Hero%20image%20%C3%A9%20um%20termo,banners%20ao%20lado%20da%20imagem.
+
+- https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-size
+
+- https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics
+
+- https://www.maujor.com/tutorial/csslinks.php
+ -->
