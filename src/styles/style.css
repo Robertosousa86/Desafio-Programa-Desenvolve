@@ -307,7 +307,6 @@ main {
   background-color: transparent;
   outline: none;
   border-radius: 4px;
-  /*  opacity: 0; */
   transition: 0.3s ease-in;
   font-size: 1rem;
 }
