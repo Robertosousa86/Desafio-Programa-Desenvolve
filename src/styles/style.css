@@ -312,7 +312,8 @@ main {
 .services__card button:hover {
   cursor: pointer;
   opacity: 1;
-  background: #131313;
+  color: #ffffff;
+  background: #1fd9f1;
   transform: scale(1.075);
   transition: 0.3s ease-in;
 }
@@ -321,4 +322,80 @@ main {
   transform: scale(1.075);
   transition: 0.3s ease-in;
   cursor: pointer;
+}
+
+.main__img--card2 {
+  margin: 10px;
+  height: 500px;
+  width: 500px;
+  border: 2px solid #132235;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-size: 100% 100%;
+  transition: 0.3s ease-in;
+  opacity: 0.5;
+}
+
+.main__img--card2:hover {
+  background-image: linear-gradient(to right, #6ddad3 0%, #132235 100%);
+  opacity: 0.9;
+  transform: scale(1.02);
+  transition: 0.3s ease-in;
+}
+
+.form__text {
+  color: #132235;
+  width: 100%;
+}
+
+.form__text h1 {
+  font-size: 2rem;
+  color: #132235;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+}
+
+.form__text h2 {
+  color: #08f7e7;
+  font-size: 3em;
+}
+
+.form__text p {
+  color: #20b2aa;
+  margin-top: 1rem;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+#sign-up {
+  background-image: url('../images/Republicaestudiantil_Getty-Images.webp');
+  background-size: cover;
+}
+
+.main__form {
+  width: auto;
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  color: #000000;
+  margin-top: 10px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border: 1px solid;
+}
+
+textarea {
+  width: 90%;
+  height: 120px;
+  margin-top: 10px;
+  line-height: 20px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  resize: vertical;
+  max-height: 300px;
+  min-height: 120px;
 }
