@@ -44,14 +44,14 @@ O desafio consiste em construir uma versão inicial simplificada de uma landing 
 
 **Ao clicar no botão de envio, a página deve exibir uma das seguintes mensagens:**
 
-- [ ] "Erro no envio: Insira uma mensagem", caso o campo de texto esteja em branco.
-- [ ] "Erro no envio: Endereço de mail inválido", caso o email fornecido não siga o formato user@domain.com
-- [ ] "Obrigado pelo contato, user!", para os demais casos.
+- [x] "Erro no envio: Insira uma mensagem", caso o campo de texto esteja em branco.
+- [x] "Erro no envio: Endereço de mail inválido", caso o email fornecido não siga o formato user@domain.com
+- [x] "Obrigado pelo contato, user!", para os demais casos.
 
 **Para a validação de email, os critérios específicos de cada variável são:**
 
-- [ ] user: 1 a 32 caracteres, incluindo letras maiúsculas e minúsculas, numerais e ponto final.
-- [ ] domain: 1 a 16 caracteres, incluindo letras minúsculas e numerais.
+- [x] user: 1 a 32 caracteres, incluindo letras maiúsculas e minúsculas, numerais e ponto final.
+- [x] domain: 1 a 16 caracteres, incluindo letras minúsculas e numerais.
 
 ##### Suporte e Entrega
 
@@ -86,4 +86,6 @@ O desafio consiste em construir uma versão inicial simplificada de uma landing 
 - https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics
 
 - https://www.maujor.com/tutorial/csslinks.php
+
+- https://regex101.com/
  -->
