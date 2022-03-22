@@ -22,9 +22,9 @@
   }
 
   .navbar__menu.active {
-    background: #131313;
+    background: #132235;
     top: 100%;
-    opacity: 1;
+    opacity: 0.91;
     transition: all 0.5s ease;
     z-index: 99;
     height: 60vh;
